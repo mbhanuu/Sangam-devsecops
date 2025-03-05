@@ -1,0 +1,478 @@
+    1  ls
+    2  ll
+    3  cat | grep bha /etc/passwd
+    4  cat | grep azu /etc/passwd
+    5  ll
+    6  clear
+    7  sudo su
+    8  ll
+    9  cd 
+   10  cat | grep bha /etc/passwd
+   11  useradd bhavani
+   12  sudo useradd bhavani
+   13  cat | grep bha /etc/passwd
+   14  clear
+   15  ip r
+   16  ll
+   17  sudo su bhavani
+   18  sudo su
+   19  ll
+   20  git init
+   21  sudo yum install clipman
+   22  sudo yum install xclip 
+   23  git -version
+   24  git --version
+   25  sudo yum git install
+   26  sudo yum install git
+   27  git --version
+   28  git clone git@github.com:mbhanuu/Sangam-devsecops.git
+   29  cd .ssh/
+   30  ls
+   31  ssh-ksygen
+   32  ssh-keygen
+   33  cat yes.pun
+   34  cat yes.pem
+   35  cat yes.pub
+   36  git clone git@github.com:mbhanuu/Sangam-devsecops.git
+   37  eval "$(ssh-agent -s)"
+   38  ssh-add ~/.ssh/id_rsa
+   39  ssh -T git@github.com
+   40  ls
+   41  cat yes.pub
+   42  cd 
+   43  tar -xvf 
+   44  cd kuberne
+   45  sudo cp kubecxrrt/usr/bin
+   46  cd linux-ad
+   47  sudo chmod 755 helm
+   48  ls -lrt
+   49  terraform -version
+   50  mkdir
+   51  mikdir helm
+   52  mkdir helm
+   53  ls
+   54  sudo cp helm /usr/bin
+   55  sudo cp -r  helm /usr/bin
+   56  ls
+   57  cd /usr/bin
+   58  ls -larth | grep helm
+   59  top
+   60  clear
+   61  cd .
+   62  cd -
+   63  cd..
+   64  cd .
+   65  cd ..
+   66  rpm -qa
+   67  rpm -qa | grep phy
+   68  env
+   69  env | grep proxy
+   70  export HTTP_PROXY="example.com"
+   71  evn | grep http
+   72  env
+   73  env | grep HTTP
+   74  echo $HTTP_PROXY 
+   75  unset HTTP_PROXY 
+   76  env | grep HTTP
+   77  unset HTTP_PROXY    
+   78  uname -a
+   79  ld
+   80  ls
+   81  ls -ld helm/
+   82  ls -lrt helm
+   83  ls -lrt | gerp helm
+   84  ls -lrt | grep helm
+   85  ls
+   86  sudo yum install terraform 
+   87  ls
+   88  wget sudo apt-get update && sudo apt-get install -y gnupg software-properties-common
+   89  wget -O- https://apt.releases.hashicorp.com/gpg | gpg --dearmor | sudo tee /usr/share/keyrings/hashicorp-archive-keyring.gpg > /dev/null
+   90  gpg --no-default-keyring --keyring /usr/share/keyrings/hashicorp-archive-keyring.gpg --fingerprint
+   91  echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] \
+   92  https://apt.releases.hashicorp.com $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/hashicorp.list
+   93  sudo yum update
+   94  sudo yum install terraform
+   95  terraform -version
+   96  sudo yum install -y yum-utils
+   97  sudo yum-config-manager --add-repo https://rpm.releases.hashicorp.com/RHEL/hashicorp.repo
+   98  sudo yum -y install terraform
+   99  terraform -version
+  100  terrafrom init
+  101  cd /
+  102  terraform init
+  103  vim terraform.tf
+  104  la
+  105  ls
+  106  terraform -version
+  107  cd /
+  108  ls
+  109  vi main.tf
+  110  ls -ld main.tf
+  111  ls -lf main.tf
+  112  sudo ls -lf main.tf
+  113  clear
+  114  ls
+  115  touch main.tf
+  116  sudo touch main.tf
+  117  sudo vi main.tf
+  118  terraform init
+  119  sudo vi main.tf
+  120  clear
+  121  to see the perticular use
+  122  cat | gerp /etc/passwd
+  123  cat | grep /etc/passwd
+  124  cat | grep bhavani /etc/passwd
+  125  cat /etc/passwd
+  126  cat | grep bhav /etc/passwd
+  127  sudo passwd bhavani
+  128  useradd maansi
+  129  sudo useradd maansi
+  130  cat | grep maansi /etc/passwd
+  131  sudo passwd maansi
+  132  sudo su maansi
+  133  ls
+  134  ll -ld hlem
+  135  sudo ll -ld hlem
+  136  ls -ld helm
+  137  useradd netra
+  138  sudo useradd netra
+  139  chown netra:netra helm
+  140  sudo chown netra:netra helm
+  141  ls
+  142  ls -ld helm
+  143  ch +w helm
+  144  chmod +w helm
+  145  sudo chmod +w helm
+  146  ls -ld helm
+  147  chmod 777 helm
+  148  sudo chmod 777 helm
+  149  ls -ld helm
+  150  chmod 764 helm
+  151  sudo chmod 764 helm
+  152  ls -ld helm
+  153  ip r
+  154  uptime
+  155  ssh bhavani@ip address
+  156  mkdir - p
+  157  ls
+  158  rm -
+  159  rm -r -
+  160  ls
+  161  rm -r p
+  162  rpm -qa
+  163  rpm -qa | grem phytho
+  164  rpm -qa | grep phytho
+  165  rpm -qa | grep te
+  166  rpm -qa | grep terra
+  167  ls -lrth /etc
+  168  ls -lrth /mnt
+  169  env
+  170  export HTTP_PROXY=google.com
+  171  echo $HTTP_PROXY
+  172  env | grep HTT
+  173  unset HTTP_PROXY
+  174  env | grep HTT
+  175  nohup ./sh
+  176  tail -f nohup.out
+  177  uname
+  178  uname -a
+  179  cat mnt | wc -l
+  180  cat /mnt | wc -l
+  181  cat /etc | wc -l
+  182  cat /etc/passwd  | wc -l
+  183  ls /etc/passwd | wc -l
+  184  ls /etc/passwd 
+  185  cat /etc/passwd 
+  186  cat /etc/passwd | wc -l
+  187  clear
+  188  netstat -an
+  189  netstat -an 
+  190  netstat -an | more
+  191  netstat -tun | more
+  192  netstat 
+  193  netstat -tun
+  194  netsat -tun >> baseline
+  195  netsatat  -tun >> baseline
+  196  netstat  -tun >> baseline
+  197  ll
+  198  ls
+  199  ll
+  200  ls -lrth
+  201  clear
+  202  netstat -tun 
+  203  netstat -tuln 
+  204  netstat -tuln >>baseline
+  205  clear
+  206  lsof
+  207  lsof | more
+  208  lsof | grep tcp
+  209  lsof | grep tcp | list
+  210  lsof | grep tcp | grep listen
+  211  lsof -i | grep tcp | grep listen
+  212  ps -ef
+  213  ps -ef 
+  214  ps -ef | more
+  215  ps -ef | awk '{print $1" "$8}'
+  216  ps -ef
+  217  ps -ef | awk '{print$1" "$8" "$9}'
+  218  ps -ef | awk '{print$1" "$4" "$9}'
+  219  ps -ef | awk '{print$1" "$2" "$9}'
+  220  iptables
+  221  iptables -L -n
+  222  sudo iptables -L -n
+  223  git add
+  224  git clone -b
+  225  git barnch
+  226  git add .
+  227  git commit -m "mamam"
+  228  git commit -m "jaba"
+  229  lsblk
+  230  fdisk
+  231  fdisks
+  232  fdisks -l
+  233  fdisk -l
+  234  sudo fdisk -l
+  235  /etc/fstab
+  236  sudo /etc/fstab
+  237  sudo cat /etc/fstab
+  238  clear
+  239  git --version
+  240  git branch
+  241  git init
+  242  git branch
+  243  ls -a
+  244  git clone provider "azurerm" {
+  245    version="2.34.0"
+  246    subscription_id= "6b4b984d-45df-4c74-bf17-ef1d2e043b20"
+  247    client_id="d792e8d9-6eab-49cc-af3b-79a27449f4b3"
+  248    client_secret="15632cae-d077-4d20-8cec-27927a13d8ee"
+  249    tenant_id= "f4eedc52-f7bb-474c-a6ac-ddeabe1e8903"
+  250  }
+  251  # Define the disks to resize
+  252  locals {
+  253    disks = [
+  254      {         name="disktest1";         resource_group_name="myfirstresourcegroup";         size_gb = 5;       },;       {         name = "disktest2";         resource_group_name = "myfirstresoucegroup";         size_gb = 5;       };   ]; } 
+  255  # Resizing the disks
+  256  resource "azurerm_managed_disk" "example" {
+  257      for_each = local.disks
+  258      name = each.value.name
+  259      resource_group_name = each.value.resource_group_name
+  260      location = "east asia "
+  261      storage_account type = "Standard SSD LRS"
+  262      disk_size_gb    = each.value.size_gb
+  263  } provider "azurerm" {
+  264    version="2.34.0"
+  265    subscription_id= "6b4b984d-45df-4c74-bf17-ef1d2e043b20"
+  266    client_id="d792e8d9-6eab-49cc-af3b-79a27449f4b3"
+  267    client_secret="15632cae-d077-4d20-8cec-27927a13d8ee"
+  268    tenant_id= "f4eedc52-f7bb-474c-a6ac-ddeabe1e8903"
+  269  }
+  270  # Define the disks to resize
+  271  locals {
+  272    disks = [
+  273      {         name="disktest1";         resource_group_name="myfirstresourcegroup";         size_gb = 5;       },;       {         name = "disktest2";         resource_group_name = "myfirstresoucegroup";         size_gb = 5;       };   ]; } 
+  274  # Resizing the disks
+  275  resource "azurerm_managed_disk" "example" {
+  276      for_each = local.disks
+  277      name = each.value.name
+  278      resource_group_name = each.value.resource_group_name
+  279      location = "east asia "
+  280      storage_account type = "Standard SSD LRS"
+  281      disk_size_gb    = each.value.size_gb
+  282  } clear
+  283  clean
+  284  clear
+  285  git clone git@github.com:mbhanuu/sangam-devsecops.git
+  286  git statu
+  287  git staus
+  288  git status
+  289  ls
+  290  rm -r .git
+  291  git status
+  292  mkdir 2.1.1-release
+  293  git init
+  294  git clone git@github.com:mbhanuu/sangam-devsecops.git
+  295  sudo git clone git@github.com:mbhanuu/sangam-devsecops.git
+  296  git clone git@github.com:mbhanuu/sangam-devsecops.git
+  297  mkdir 2.2.1-release
+  298  cd 2.2.1-release/
+  299  git status
+  300  ls
+  301  git status
+  302  cd ..
+  303  ls
+  304  cd 2.2.1-release/
+  305  cd ../2.1.1-release/
+  306  ls
+  307  git status
+  308  ls -a
+  309  cd ..
+  310  ls -a
+  311  rm -rm baseline
+  312  rm -r baseline 
+  313  rm .viminfo
+  314  rm .terraform.d
+  315  rm -r .terraform.d
+  316  rm -r .bash-profile
+  317  rm  .bash-profile
+  318  rm .bash-profile
+  319  rm -rf .bash-profile
+  320  ls
+  321  ls -a
+  322  rm -rf .bashrc
+  323  ls
+  324  ls -a
+  325  git clone git@github.com:mbhanuu/sangam-devsecops.git
+  326  git remote add  git@github.com:mbhanuu/sangam-devsecops.git
+  327  cd .ssh/
+  328  ls
+  329  cd 
+  330  ls
+  331  ls .ssh
+  332  git remote add  git@github.com:mbhanuu/sangam-devsecops.git
+  333   git branch
+  334  ls
+  335  cd 2.1.1-release/
+  336  ls
+  337  cd ../2.2.1-release/
+  338  ls
+  339  git remote add  git@github.com:mbhanuu/sangam-devsecops.git
+  340  git clone git@github.com:mbhanuu/sangam-devsecops.git
+  341  cd ../.ssh
+  342  ls
+  343  cat known_hosts
+  344  rm -r known_hosts 
+  345  ls
+  346  git clone git@github.com:mbhanuu/sangam-devsecops.git
+  347  cd
+  348  ssh-add -l
+  349  sudo ssh-add -l
+  350  ssh-add ~/.ssh/id_rsa
+  351  sudo ssh-add ~/.ssh/id_rsa
+  352  cd .ssh/
+  353  sudo ssh-add -l
+  354  ssh-add -l
+  355  cd
+  356  git clone git@github.com:mbhanuu/sangam-devsecops.git
+  357  ls -a
+  358  cd .git
+  359  cd ../
+  360  rm .git
+  361  rm -r .gt
+  362  rm -r .git
+  363  cd 
+  364  git clone git@github.com:mbhanuu/sangam-devsecops.git
+  365  git clone https://github.com/mbhanuu/Sangam-devsecops.git
+  366  ls
+  367  rm -r sangam-devops
+  368  rm -fr sangam-devops
+  369  cd 2.2.1-release/
+  370  cd ../2.1.1-release/
+  371  ls
+  372  git clone https://github.com/mbhanuu/Sangam-devsecops.git
+  373  ls
+  374  cd sangam-devops/
+  375  cd Sangam-devops/
+  376  cd Sangam-devsecops/
+  377  ls
+  378  mkdir relases
+  379  cd relea
+  380  cd ls
+  381  ll
+  382  mv relases releases
+  383  ls
+  384  cd releases/
+  385  ls
+  386  mkdir 2.2.1
+  387  mkdir 2.2.2-release
+  388  mkdir 2.212-release
+  389  mkdir 2.2.1-release
+  390  mkdir 2.2.3-release
+  391  ls
+  392  cd
+  393  cd Sangam-devsecops/
+  394  git status
+  395  git branch
+  396  git add .
+  397  git status
+  398  git push origin
+  399  git push origin git@github.com:mbhanuu/Sangam-devsecops.git
+  400  git  origin add  git@github.com:mbhanuu/Sangam-devsecops.git
+  401  git --help
+  402  clear
+  403  ls -a
+  404  ls
+  405  git status
+  406  mkdir test
+  407  git status
+  408  git checout 2.2.1-release
+  409  git checout -b 2.2.1-release
+  410  git checkout -b 2.2.1-release
+  411  git branch
+  412  mkdir test
+  413  ls
+  414  git status
+  415  ll
+  416  git status
+  417  touch a
+  418  git status
+  419  mkdir test
+  420  git status
+  421  mkdir a
+  422  mkdir abc
+  423  git staus
+  424  git status
+  425  mkdir 2.2.1 
+  426  cd 2.2.1 
+  427  mkdir app
+  428  git status
+  429  ls
+  430  touch abc
+  431  git status
+  432  cd 
+  433  cd Sangam-devsecops/
+  434  ls
+  435  git status
+  436  rm -rf abc
+  437  ls
+  438  rm a
+  439  ls
+  440  cd release/
+  441  cd release
+  442  cd apps/
+  443  ls
+  444  cd releases
+  445  ls
+  446  cd ..
+  447  git status
+  448  cd /releases
+  449  ls
+  450  cd releases/
+  451  touch test
+  452  ls
+  453  git status
+  454  cd 
+  455  cd Sangam-devsecops/
+  456  git status
+  457  ls
+  458  mkdir release
+  459  cd /release
+  460  cd release/
+  461  touch temp
+  462  ls
+  463  git status
+  464  cd ..
+  465  git status
+  466  git not track emty folders
+  467  git add.
+  468  git add .
+  469  git commit -m "so many folders"
+  470  git status
+  471  git push
+  472  git push --set-upstream origin 2.2.1-release
+  473  git branch
+  474  git push origin 2.2.1-release
+  475  git pull
+  476  ls
+  477  history
+  478  history >> commands
